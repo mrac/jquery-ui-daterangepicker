@@ -1,0 +1,8 @@
+
+{
+    "name": "jquery-ui-daterangepicker",
+    "version": "0.5.1",
+    "license": "MIT",
+    "dependencies": {
+    }
+}
